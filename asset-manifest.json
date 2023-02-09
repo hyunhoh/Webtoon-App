@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://2realzoo.github.io/webtoon/static/css/main.4c453b42.css",
-    "main.js": "https://2realzoo.github.io/webtoon/static/js/main.a039427b.js",
+    "main.js": "https://2realzoo.github.io/webtoon/static/js/main.6b0356e8.js",
     "static/js/787.2c0e342c.chunk.js": "https://2realzoo.github.io/webtoon/static/js/787.2c0e342c.chunk.js",
     "index.html": "https://2realzoo.github.io/webtoon/index.html",
     "main.4c453b42.css.map": "https://2realzoo.github.io/webtoon/static/css/main.4c453b42.css.map",
-    "main.a039427b.js.map": "https://2realzoo.github.io/webtoon/static/js/main.a039427b.js.map",
+    "main.6b0356e8.js.map": "https://2realzoo.github.io/webtoon/static/js/main.6b0356e8.js.map",
     "787.2c0e342c.chunk.js.map": "https://2realzoo.github.io/webtoon/static/js/787.2c0e342c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c453b42.css",
-    "static/js/main.a039427b.js"
+    "static/js/main.6b0356e8.js"
   ]
 }
