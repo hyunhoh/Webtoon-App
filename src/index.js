@@ -10,12 +10,12 @@ import store from './store/store.js';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <Provider store={store}>
-    <BrowserRouter basename="/webtoon/">
+    <BrowserRouter basename="/Webtoon-App/">
       <React.StrictMode>
-          <App />
+        <App />
       </React.StrictMode>
-    </BrowserRouter>  
-  </Provider>
+    </BrowserRouter>
+  </Provider>,
 );
 
 // If you want to start measuring performance in your app, pass a function
