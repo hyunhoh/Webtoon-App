@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://hyunhoh.github.io/Webtoon-App/static/css/main.4c453b42.css",
-    "main.js": "https://hyunhoh.github.io/Webtoon-App/static/js/main.c211ffd0.js",
-    "static/js/787.2c0e342c.chunk.js": "https://hyunhoh.github.io/Webtoon-App/static/js/787.2c0e342c.chunk.js",
-    "index.html": "https://hyunhoh.github.io/Webtoon-App/index.html",
-    "main.4c453b42.css.map": "https://hyunhoh.github.io/Webtoon-App/static/css/main.4c453b42.css.map",
-    "main.c211ffd0.js.map": "https://hyunhoh.github.io/Webtoon-App/static/js/main.c211ffd0.js.map",
-    "787.2c0e342c.chunk.js.map": "https://hyunhoh.github.io/Webtoon-App/static/js/787.2c0e342c.chunk.js.map"
+    "main.css": "/Webtoon-App/static/css/main.4c453b42.css",
+    "main.js": "/Webtoon-App/static/js/main.11181a45.js",
+    "static/js/787.2c0e342c.chunk.js": "/Webtoon-App/static/js/787.2c0e342c.chunk.js",
+    "index.html": "/Webtoon-App/index.html",
+    "main.4c453b42.css.map": "/Webtoon-App/static/css/main.4c453b42.css.map",
+    "main.11181a45.js.map": "/Webtoon-App/static/js/main.11181a45.js.map",
+    "787.2c0e342c.chunk.js.map": "/Webtoon-App/static/js/787.2c0e342c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c453b42.css",
-    "static/js/main.c211ffd0.js"
+    "static/js/main.11181a45.js"
   ]
 }
