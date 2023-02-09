@@ -11,7 +11,7 @@ function App() {
         <Route path="/" element={<Home />}></Route>
         <Route path="/login" element={<Login />}></Route>
         <Route path="/mypage" element={<MyPage />}></Route>
-        console.log('되라')
+        console.log('돼거라')
       </Routes>
       <Footer />
     </>
